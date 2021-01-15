@@ -1,3 +1,10 @@
+This project is designed to identify potiential crazy shooters by videos they uploaded (especially those saying something like "I'm gonna blow the community").
+
+It is forked from https://github.com/gsi-upm/video-sentiment-analysis. Our plan is to develop basing on it or use it's result for further analysis.
+
+Below is the old readme.md:
+==================================
+
 ![GSI Logo](http://www.gsi.dit.upm.es/images/stories/logos/gsi.png)
 [SentiVid](https://github.com/gsi-upm/video-sentiment-analysis)
 ==================================
