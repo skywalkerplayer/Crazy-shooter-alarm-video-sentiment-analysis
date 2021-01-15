@@ -2,6 +2,8 @@ This project is designed to identify potiential crazy shooters by videos they up
 
 It is forked from https://github.com/gsi-upm/video-sentiment-analysis. Our plan is to develop basing on it or use it's result for further analysis.
 
+Help from psycologists are probably needed.
+
 Below is the old readme.md:
 ==================================
 
